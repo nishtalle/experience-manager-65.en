@@ -161,7 +161,7 @@ To configure replication between AEM instances:
 Before you can use AEM and Adobe Campaign together, you must establish the link between both solutions so that they can communicate.
 
 1. Connect to your AEM authoring instance.
-1. Select **Tools** &gt; **Operations** &gt; **Cloud** &gt; **Cloud Services**, then **Configure now** in the Adobe Campaign section.
+1. Select **Tools** &gt; **Cloud Services** &gt; **Legacy Cloud Services**, then **Configure now** in the Adobe Campaign section.
 
    ![chlimage_1-128](assets/chlimage_1-128a.png)
 
